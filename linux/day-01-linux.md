@@ -193,14 +193,5 @@ User
 Group
 Others
 
-## OverTheWire Bandit
 
-Completed:
-
-Level 0 - SSH
-Level 1 - Special filename
-Level 2 - Spaces in filename
-Level 3 - Hidden files
-Level 4 - File types
-Level 5 - Finding files
 
